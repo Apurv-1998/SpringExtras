@@ -1,0 +1,11 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+demo,com.example.demo.service.impl,CalculatorService,15,13,5,1,6,4,4,3,1,3
+demo,com.example.demo.service.impl,EmailService,8,0,0,0,3,0,2,0,2,0
+demo,com.example.demo.service.impl,UserService,83,0,4,0,28,0,5,0,3,0
+demo,com.example.demo.service.impl,SmsService,8,0,0,0,3,0,2,0,2,0
+demo,com.example.demo.service.impl,UserService.new ParameterizedTypeReference() {...},6,0,0,0,1,0,1,0,1,0
+demo,com.example.demo.service,OrderService,6,0,0,0,3,0,1,0,1,0
+demo,com.example.demo.controller,UserController,11,0,0,0,2,0,2,0,2,0
+demo,com.example.demo.controller,EmployeeController,60,0,4,0,12,0,4,0,2,0
+demo,com.example.demo.Config,WebClientConfig,8,0,0,0,4,0,2,0,2,0
+demo,com.example.demo,DemoApplication,12,0,0,0,5,0,3,0,3,0
