@@ -26,4 +26,9 @@ public class CalculatorServiceTest {
         assertEquals(4, result);
     }
 
+    @Test
+    void shouldClassifyNumber(){
+        String result = service.classifyNumber(10);
+        assertEquals("POSITIVE", result);
+    }
 }
